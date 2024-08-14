@@ -1,8 +1,4 @@
 # BiNewsletter
-This is a newsletter app on top of Python using its data manipulation libraries , output of this app we are sending by Email which is scheduled based on business requirement.
+This is a newsletter app which is written on top of Python using data manipulation libraries like (Pandas, Seaborn, Plotly and Matplotlib) , output of this app we are sending by Email (email.mime) which is scheduled based on business requirement. Please find the attached final output of this app.
 
-![image](https://github.com/user-attachments/assets/936b4569-3580-4c9a-b302-15653b9cd088)
-![image](https://github.com/user-attachments/assets/f02a0ec8-60a4-49a2-a50a-ebc6b337b8f2)
-![image](https://github.com/user-attachments/assets/6439d6ef-4d75-4f1e-bb9a-b933a1a02d54)
-
-
+![Mail-BI-Newsletter](https://github.com/user-attachments/assets/8fee794a-7f17-4971-a79f-8ef87340dc75)
