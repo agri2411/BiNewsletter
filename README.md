@@ -2,9 +2,8 @@
 This is a newsletter app which is written on top of Python using data manipulation libraries like (Pandas, Seaborn, Plotly and Matplotlib) , output of this app we are sending by Email (email.mime) which is scheduled based on business requirement. 
 
 We are generating SQL output summary based on 
-  google.cloud 
-  google.generativeai
-
+ 1) google.cloud 
+ 2) google.generativeai
 which is useful to highlight the key insights and top performers for executive automatically.
 
 
