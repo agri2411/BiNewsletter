@@ -4,6 +4,7 @@ This is a newsletter app which is written on top of Python using data manipulati
 We are generating SQL output summary based on 
  1) google.cloud 
  2) google.generativeai
+    
 which is useful to highlight the key insights and top performers for executive automatically.
 
 
