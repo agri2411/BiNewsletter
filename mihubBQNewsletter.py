@@ -185,9 +185,9 @@ def send_executive_summary_newsletter(sender_email, sender_password, recipient_e
         print(f"An error occurred while sending to {recipient_email}: {e}")
 
     
-sender_email = "ankit.aggarwal2411@gmail.com"
-sender_password = "ggjrumertaarxiad"  # Use an app password for Gmail
-recipient_email =["ankit.aggarwal@copart.com","hardik.bhavsar@copart.com"]
+sender_email = <<EMAIL ID>>
+sender_password = # Use an app password for Gmail
+recipient_email =[<<EMAIL ID>>,<<EMAIL ID>>]
 
 subject = "Weekly Executive Summary with Data Insights"
 
